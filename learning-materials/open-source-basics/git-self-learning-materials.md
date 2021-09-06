@@ -1,26 +1,26 @@
 # Git自学资源分享
 
-![2D9EDA00-AE40-4701-9EA7-5A4506E846FC](git-self-learning-images\2D9EDA00-AE40-4701-9EA7-5A4506E846FC.png)
+![2D9EDA00-AE40-4701-9EA7-5A4506E846FC](https://gitee.com/yanhuiling/G11N/blob/master/learning-materials/open-source-basics/images/2D9EDA00-AE40-4701-9EA7-5A4506E846FC.png)
 
-### ![1](git-self-learning-images\1.png)Git介绍
+### ![1](https://gitee.com/yanhuiling/G11N/blob/master/learning-materials/open-source-basics/images/1.png)Git介绍
 
 Git是一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理。 我们翻译或创作好的文档需要通过Git工具上传到开源社区，请参考以下链接学习Git工具的使用方法。 
 
-### ![1](git-self-learning-images\1.png)Git大全
+### ![1](https://gitee.com/yanhuiling/G11N/blob/master/learning-materials/open-source-basics/images/1.png)Git大全
 
 <https://gitee.com/all-about-git> 
 
-### ![1](git-self-learning-images\1.png)Git软件下载
+### ![1](https://gitee.com/yanhuiling/G11N/blob/master/learning-materials/open-source-basics/images/1.png)Git软件下载
 
 [https://](https://git-scm.com/downloads)[git-scm.com/downloads](https://git-scm.com/downloads)
 
 <https://gitforwindows.org/>
 
-### ![1](git-self-learning-images\1.png)Git完整命令手册
+### ![1](https://gitee.com/yanhuiling/G11N/blob/master/learning-materials/open-source-basics/images/1.png)Git完整命令手册
 
 <http://git-scm.com/docs> 
 
-### ![1](git-self-learning-images\1.png)使用指南
+### ![1](https://gitee.com/yanhuiling/G11N/blob/master/learning-materials/open-source-basics/images/1.png)使用指南
 
 **简明指南**：[https://www.runoob.com/manual/git-guide](https://www.runoob.com/manual/git-guide/)[/](https://www.runoob.com/manual/git-guide/) 
 
@@ -38,7 +38,7 @@ Git是一个开源的分布式版本控制系统，可以有效、高速地处�
 
 https://b23.tv/pM1vGq （视频）
 
-### ![1](git-self-learning-images\1.png)Git深度学习
+### ![1](https://gitee.com/yanhuiling/G11N/blob/master/learning-materials/open-source-basics/images/1.png)Git深度学习
 
 <https://github.com/xiaolai/xiaolai.github.io/tree/master/the-craft-of-selfteaching>
 
