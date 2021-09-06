@@ -67,7 +67,7 @@
 
 ## 开源社区角色
 
-![image 5](https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%205.PNG)
+![image 5](https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/image%205.png)
 
 ## 如何贡献开源
 
