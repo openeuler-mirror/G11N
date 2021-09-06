@@ -166,7 +166,7 @@ format='orc', partitioned_by=ARRAY['nationkey']);
 
 图片的格式为**!**加**[]**括起的图片名称加**()**括起的图片地址。
 
-![image 1](markdown-basics images\image 1.PNG)
+![image 1](https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/image%2011.PNG)
 
 ### 表格
 
