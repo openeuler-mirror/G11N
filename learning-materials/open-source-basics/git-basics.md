@@ -82,7 +82,7 @@ Git的分支功能支持同时进行多个功能的开发和版本管理。在�
 
 7. 登录Git管理后台，**个人头像->设置->SSH秘钥->添加秘钥**，拷贝至输入框，保存。
 
-   ###### <img src="https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%203.PNG" alt="Git 3" style="zoom: 50%;" />
+   ###### <img src="https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%203.PNG" alt="Git 3" style="zoom: 30%;" />
 
 ## 3. 初始化仓库
 
