@@ -72,17 +72,17 @@ Git的分支功能支持同时进行多个功能的开发和版本管理。在�
 
 4. 继续输入 **ssh-keygen -o** 遇到需要需要输入密码时，直接回车，直到出现 $符号。
 
-   ###### ![Git 1](git-basics images\Git 1.PNG)
+   ###### ![Git 1](https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%201.PNG)
 
 5. 继续输入  **cat ~/.ssh/id_rsa.pub**。
 
 6. 拷贝**ssh-rsa** 开始到 个人邮箱结尾的文字。
 
-   ###### ![Git 2](git-basics images\Git 2.PNG)
+   ###### ![Git 2](https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%202.PNG)
 
 7. 登录Git管理后台，**个人头像->设置->SSH秘钥->添加秘钥**，拷贝至输入框，保存。
 
-   ###### <img src="git-basics images\Git 3.PNG" alt="Git 3" style="zoom: 50%;" />
+   ###### <img src="https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%203.PNG" alt="Git 3" style="zoom: 50%;" />
 
 ## 3. 初始化仓库
 
@@ -90,7 +90,7 @@ Git的分支功能支持同时进行多个功能的开发和版本管理。在�
 
 选择一个远端仓库，点击左上角fork按钮。
 
-###### <img src="git-basics images\Git 4.PNG" alt="Git 4" style="zoom: 67%;" />
+###### <img src="https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%204.PNG" alt="Git 4" style="zoom: 67%;" />
 
 - 克隆到个人本地仓库
 
@@ -98,9 +98,9 @@ Git的分支功能支持同时进行多个功能的开发和版本管理。在�
 
 在需要保存仓库文件的目录下，鼠标右键单击，打开Git Bash Here，输入 git clone 拷贝内容。
 
-###### <img src="git-basics images\Git 5.PNG" alt="Git 5" style="zoom:80%;" />
+###### <img src="https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%205.PNG" alt="Git 5" style="zoom:80%;" />
 
-###### ![Git 6](git-basics images\Git 6.PNG)
+###### ![Git 6](https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%206.PNG)
 
 ## 4. 个人本地仓库配置
 
@@ -110,13 +110,13 @@ Git的分支功能支持同时进行多个功能的开发和版本管理。在�
 
 进入统一远端仓库，点击**克隆/下载**按钮下三角->复制图标，复制统一仓库地址。
 
-###### <img src="git-basics images\Git 5.PNG" alt="Git 5" style="zoom:80%;" />
+###### <img src="https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%205.PNG" alt="Git 5" style="zoom:80%;" />
 
 Git bash 客户端输入 **git remote add upstream** 统一仓库地址。
 
 输入 **git remote -v**, 查看远端仓库配置信息。
 
-###### ![Git 7](git-basics images\Git 7.PNG)
+###### ![Git 7](https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%207.PNG)
 
 # 三. 提交文件
 
@@ -143,13 +143,13 @@ Git bash 客户端输入 **git remote add upstream** 统一仓库地址。
 
 - 克隆个人远端仓库 空白处鼠标右键，选择**Git Clone**。
 
-  ###### ![Git 8](git-basics images\Git 8.PNG)
+  ###### ![Git 8](https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%208.PNG)
 
 - **URL**: 输入个人远端仓库复制的地址，Directory输入。
 
   想要保存仓库文件的目录，点击**OK**。
 
-  ###### <img src="git-basics images\Git 9.PNG" alt="Git 9" style="zoom:80%;" />
+  ###### <img src="https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%209.PNG" alt="Git 9" style="zoom:80%;" />
 
 - 进入保存仓库文件的目录，该目录下添加文件。
 
@@ -157,15 +157,15 @@ Git bash 客户端输入 **git remote add upstream** 统一仓库地址。
 
 - 仓库目录下空白处鼠标右键单击，选择**Git commit->master**。
 
-  ###### <img src="git-basics images\Git 10.PNG" alt="Git 10" style="zoom:80%;" />
+  ###### <img src="https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%2010.PNG" alt="Git 10" style="zoom:80%;" />
 
-  ###### <img src="git-basics images\Git 11.PNG" alt="Git 11" style="zoom:80%;" />
+  ###### <img src="https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%2011.PNG" style="zoom:80%;" />
 
-  ###### <img src="git-basics images\Git 12.PNG" alt="Git 12" style="zoom:80%;" />
+  ###### <img src="https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%2012.PNG" style="zoom:80%;" />
 
 - 仓库目录下空白处，鼠标右键单击，选择**TortoiseGit->push**，选择远端分支 。
 
-  ###### <img src="git-basics images\Git 13.PNG" alt="Git 13" style="zoom:80%;" />
+  ###### <img src="https://gitee.com/yanhuiling/G11N/raw/master/learning-materials/open-source-basics/images/Git%2013.PNG" alt="Git 13" style="zoom:80%;" />
 
   注：此部分图源网络，详见 https://www.softwaretestinghelp.com/tortoisegit-tutorial/。
 
