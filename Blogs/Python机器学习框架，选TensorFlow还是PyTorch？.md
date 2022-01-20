@@ -1,6 +1,6 @@
 # Python机器学习框架，选TensorFlow还是PyTorch？
 
-**![PyTorch vs TensorFlow](https://pics2.baidu.com/feed/9f510fb30f2442a719426d5926002143d013024e.jpeg?token=067bb937c13643c9a247819b69f3c7b7 "PyTorch vs TensorFlow")**
+<img src="https://pics2.baidu.com/feed/9f510fb30f2442a719426d5926002143d013024e.jpeg?token=067bb937c13643c9a247819b69f3c7b7" alt="Python" title="Python" style="zoom: 50%;" />
 
 Python是目前发展最快的编程语言，这是因为它简单、易用、免费，而且可应用于许多类型的任务。Python具有高效语法、易学性以及可与其他语言（如C和C++）轻松集成等一系列优点。
 
