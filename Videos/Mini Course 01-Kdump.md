@@ -15,5 +15,5 @@ The first course is about Kdump. Through this 10-minute video, you will know wha
 
 Scan the QR to watch the video
 
-![QR](https://gitee.com/zwyopen2021/G11N/raw/master/Videos/Images/4.PNG)
+![QR](https://gitee.com/zwyopen2021/G11N/raw/master/Videos/Images/kdump-QR.png)
 
