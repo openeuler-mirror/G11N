@@ -19,7 +19,7 @@ The two main factors linked to engaging in open source contribution are:
 - Career development, professional reputation, and networking (rather than monetary gains)
 
 
-Here are four easy ways to engage with and retain contributors in your SIG:
+Here are two easy ways to engage with and retain contributors in your SIG:
 
 **1.**     **Maintaining low contribution barriers**
 
