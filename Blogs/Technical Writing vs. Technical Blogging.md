@@ -13,3 +13,4 @@ Technical blogs are generally used as a supplement to the official product docum
 |The goal is to build trust and credibility around the product.|The goal is to build a brand around the business or the writer.|
 
 
+![Blogging](https://img0.baidu.com/it/u=259799087,507985439&fm=253&fmt=auto&app=138&f=JPEG?w=1000&h=500 "Blogging")
