@@ -1,4 +1,4 @@
-**Technical Writing vs. Technical Blogging**
+# Technical Writing vs. Technical Blogging**
 
 Different from technical writing which is a product-focused job and makes it easy for users to use the product, technical blogging is more audience-focused and brings traffic to their businesses' online content.
 
