@@ -2,7 +2,7 @@
 
 
 
-<img src="https://p6.itc.cn/q_70/images01/20210723/9d7794bd321f45ecae56c7108f96f914.jpeg" alt="Tones" title="Tones" style="zoom:67%;" />
+<img src="https://p6.itc.cn/q_70/images01/20210723/9d7794bd321f45ecae56c7108f96f914.jpeg" alt="Tones" title="Tones" style="zoom:30%;" />
 
 
 
